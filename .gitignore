@@ -1,0 +1,13 @@
+# Ignore node_modules from client side
+client/node_modules/
+
+# Ignore environment variables (agar .env file ho future mein)
+client/.env
+server/.env
+
+# Ignore OS & editor-related files
+.DS_Store
+*.log
+
+# Optional: ignore build files (agar react build karte ho)
+client/build/

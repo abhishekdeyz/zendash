@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional custom class for inputs */
+.input {
+  @apply w-full px-3 py-2 border border-gray-300 rounded;
+}
