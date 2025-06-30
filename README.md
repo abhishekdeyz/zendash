@@ -1,4 +1,4 @@
-# 🚀 Zendash – MERN SAAS Auth Dashboard
+# 🚀 Zendash(AI MODEL) – MERN SAAS Auth Dashboard 
 
 A fully functional SAAS-style authentication dashboard built using the MERN stack. This includes secure user registration, login, JWT-based auth, protected routes, and user profile management.
 
